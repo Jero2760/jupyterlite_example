@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.926134Z",
+      "format": null,
+      "last_modified": "2021-08-04T18:59:21.926134Z",
+      "mimetype": null,
+      "name": "chapter8",
+      "path": "files/chapters/img/chapter8",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.809321Z",
+      "format": null,
+      "last_modified": "2021-08-04T18:59:21.809321Z",
+      "mimetype": null,
+      "name": "chapter1",
+      "path": "files/chapters/img/chapter1",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.870695Z",
+      "format": null,
+      "last_modified": "2021-08-04T18:59:21.870695Z",
+      "mimetype": null,
+      "name": "chapter6",
+      "path": "files/chapters/img/chapter6",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.892982Z",
+      "format": null,
+      "last_modified": "2021-08-04T18:59:21.892982Z",
+      "mimetype": null,
+      "name": "chapter7",
+      "path": "files/chapters/img/chapter7",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.930170Z",
+      "format": null,
+      "last_modified": "2021-08-04T18:59:21.930170Z",
+      "mimetype": null,
+      "name": "chapter9",
+      "path": "files/chapters/img/chapter9",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.865715Z",
+      "format": null,
+      "last_modified": "2021-08-04T18:59:21.865715Z",
+      "mimetype": null,
+      "name": "chapter5",
+      "path": "files/chapters/img/chapter5",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.819077Z",
+      "format": null,
+      "last_modified": "2021-08-04T18:59:21.819077Z",
+      "mimetype": null,
+      "name": "chapter2",
+      "path": "files/chapters/img/chapter2",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.838103Z",
+      "format": null,
+      "last_modified": "2021-08-04T18:59:21.838103Z",
+      "mimetype": null,
+      "name": "chapter4",
+      "path": "files/chapters/img/chapter4",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2021-08-04T18:59:21.929748Z",
+  "format": "json",
+  "last_modified": "2021-08-04T18:59:21.929748Z",
+  "mimetype": null,
+  "name": "img",
+  "path": "files/chapters/img",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
