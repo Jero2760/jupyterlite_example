@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.979290Z",
+      "created": "2021-08-13T17:30:37.900807Z",
       "format": null,
-      "last_modified": "2021-08-04T18:59:21.979290Z",
+      "last_modified": "2021-08-13T17:30:37.900807Z",
       "mimetype": null,
       "name": "practice-exercises",
       "path": "files/practice-exercises",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.941237Z",
+      "created": "2021-08-13T17:30:37.859437Z",
       "format": null,
-      "last_modified": "2021-08-04T18:59:21.941237Z",
+      "last_modified": "2021-08-13T17:30:37.859437Z",
       "mimetype": null,
       "name": "chapters",
       "path": "files/chapters",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.955977Z",
+      "created": "2021-08-13T17:30:37.878953Z",
       "format": null,
-      "last_modified": "2021-08-04T18:59:21.955977Z",
+      "last_modified": "2021-08-13T17:30:37.878953Z",
       "mimetype": null,
       "name": "docs",
       "path": "files/docs",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2021-08-04T18:59:21.959054Z",
+  "created": "2021-08-13T17:30:37.883186Z",
   "format": "json",
-  "last_modified": "2021-08-04T18:59:21.959054Z",
+  "last_modified": "2021-08-13T17:30:37.883186Z",
   "mimetype": null,
   "name": "files",
   "path": "files",
