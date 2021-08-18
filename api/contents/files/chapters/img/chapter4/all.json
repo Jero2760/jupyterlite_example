@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.825257Z",
+      "created": "2021-08-13T17:30:37.740176Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": "image/png",
@@ -14,7 +14,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.836685Z",
+      "created": "2021-08-13T17:30:37.755300Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": "image/png",
@@ -26,7 +26,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.829320Z",
+      "created": "2021-08-13T17:30:37.744418Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": "image/png",
@@ -38,7 +38,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.832506Z",
+      "created": "2021-08-13T17:30:37.749171Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": "image/png",
@@ -50,7 +50,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.840175Z",
+      "created": "2021-08-13T17:30:37.757826Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": "image/png",
@@ -62,7 +62,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.827120Z",
+      "created": "2021-08-13T17:30:37.741853Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": "image/png",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2021-08-04T18:59:21.838103Z",
+  "created": "2021-08-13T17:30:37.756161Z",
   "format": "json",
-  "last_modified": "2021-08-04T18:59:21.838103Z",
+  "last_modified": "2021-08-13T17:30:37.756161Z",
   "mimetype": null,
   "name": "chapter4",
   "path": "files/chapters/img/chapter4",

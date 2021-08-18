@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.979900Z",
+      "created": "2021-08-13T17:30:37.902053Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": "text/x-python",
@@ -14,7 +14,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.965250Z",
+      "created": "2021-08-13T17:30:37.890116Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": null,
@@ -26,7 +26,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.971381Z",
+      "created": "2021-08-13T17:30:37.893960Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": null,
@@ -38,7 +38,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.959793Z",
+      "created": "2021-08-13T17:30:37.885324Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": "text/x-python",
@@ -50,7 +50,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.973489Z",
+      "created": "2021-08-13T17:30:37.896083Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": null,
@@ -62,7 +62,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.969060Z",
+      "created": "2021-08-13T17:30:37.892041Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": null,
@@ -74,7 +74,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.963174Z",
+      "created": "2021-08-13T17:30:37.888342Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": null,
@@ -86,7 +86,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.976374Z",
+      "created": "2021-08-13T17:30:37.897923Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": null,
@@ -98,7 +98,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.978415Z",
+      "created": "2021-08-13T17:30:37.900052Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": null,
@@ -110,7 +110,7 @@
     },
     {
       "content": null,
-      "created": "2021-08-04T18:59:21.961333Z",
+      "created": "2021-08-13T17:30:37.886830Z",
       "format": null,
       "last_modified": "2020-12-24T18:18:56Z",
       "mimetype": null,
@@ -121,9 +121,9 @@
       "writable": true
     }
   ],
-  "created": "2021-08-04T18:59:21.979290Z",
+  "created": "2021-08-13T17:30:37.900807Z",
   "format": "json",
-  "last_modified": "2021-08-04T18:59:21.979290Z",
+  "last_modified": "2021-08-13T17:30:37.900807Z",
   "mimetype": null,
   "name": "practice-exercises",
   "path": "files/practice-exercises",
