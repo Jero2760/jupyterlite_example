@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.957457Z",
+      "format": null,
+      "last_modified": "2021-01-26T09:19:05.082922Z",
+      "mimetype": "image/png",
+      "name": "logo_old_2.png",
+      "path": "files/docs/logo_old_2.png",
+      "size": 46556,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.946873Z",
+      "format": null,
+      "last_modified": "2020-12-24T18:18:56Z",
+      "mimetype": "image/png",
+      "name": "banner.png",
+      "path": "files/docs/banner.png",
+      "size": 106357,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.954693Z",
+      "format": null,
+      "last_modified": "2020-12-24T18:18:56Z",
+      "mimetype": "image/png",
+      "name": "logo_old.png",
+      "path": "files/docs/logo_old.png",
+      "size": 155127,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.948826Z",
+      "format": null,
+      "last_modified": "2020-12-24T18:18:56Z",
+      "mimetype": "image/png",
+      "name": "favicon.png",
+      "path": "files/docs/favicon.png",
+      "size": 14433,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-04T18:59:21.950898Z",
+      "format": null,
+      "last_modified": "2021-02-01T10:14:40.579158Z",
+      "mimetype": "image/png",
+      "name": "logo.png",
+      "path": "files/docs/logo.png",
+      "size": 41469,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2021-08-04T18:59:21.955977Z",
+  "format": "json",
+  "last_modified": "2021-08-04T18:59:21.955977Z",
+  "mimetype": null,
+  "name": "docs",
+  "path": "files/docs",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
