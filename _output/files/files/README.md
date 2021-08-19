@@ -41,11 +41,11 @@ These are the key outcomes I'd hope you would know after reading through this we
 
 ## Getting Started - Option 1
 
-Access each chapter as an executable notebook on your browser, without installing anything locally or opening source code on a server in the cloud. [https://jero2760.github.io/jupyterlite_example/lab/](https://jero2760.github.io/jupyterlite_example/lab/)
+Access each chapter as an executable notebook on your browser, without installing anything locally or opening source code on a server in the cloud. 
 
 ## Getting Started - Option 2
 
-If you wish to install source code locally and run it on your local machine, you should open up a terminal and do the following:
+If you wish to run code on your local machine as you read through the chapters, you should open up a terminal and do the following:
 
 1. Clone the GitHub repository:
    ```sh
