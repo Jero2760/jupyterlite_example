@@ -1,12 +1,12 @@
 # Ejemplo de uso de Jupyterlite para un libro de programación en Python
 
-Utilizando los desarrollos del Proyecto Jupyter, en este caso JupyterLite, este ejemplo muestra una serie de Jupyter Notebooks como capítulos de un libro que contiene celdas ejecutables directamente en el browser.
+Utilizando los desarrollos del Proyecto Jupyter, en este caso JupyterLite, este ejemplo muestra una serie de Jupyter Notebooks como capítulos de un libro que contiene celdas ejecutables directamente en el browser (actualmente sólo funciona con Chrome y Firefox, no en Safari).
 
 Es decir, sin necesidad de instalar nada en local o salir del libro para acceder al código en un servidor tipo Google Colab, Binder, etc.
 
 Para acceder al libro:
 
-[https://jero2760.github.io/jupyterlite_example/lab/](https://jero2760.github.io/jupyterlite_example/lab/)
+[https://jero2760.github.io/jupyterlite_example/lab/](https://jero2760.github.io/jupyterlite_example/lab/) (Chrome and Firefox only)
 
 # Python Programming for Data Science
 
@@ -41,7 +41,7 @@ These are the key outcomes I'd hope you would know after reading through this we
 
 ## Getting Started - Option 1
 
-Access each chapter as an executable notebook on your browser, without installing anything locally or opening source code on a server in the cloud. [https://jero2760.github.io/jupyterlite_example/lab/](https://jero2760.github.io/jupyterlite_example/lab/)
+Access each chapter as an executable notebook on your browser, without installing anything locally or opening source code on a server in the cloud. [https://jero2760.github.io/jupyterlite_example/lab/](https://jero2760.github.io/jupyterlite_example/lab/) (Chrome and Firefox only)
 
 ## Getting Started - Option 2
 
